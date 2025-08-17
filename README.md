@@ -15,7 +15,10 @@ This project performs real-time face recognition using a webcam and the LBPH (Lo
 
 ## Requirements
 
-Make sure you have the following installed:
+haarcascade_frontalface_default.xml file 
+
+
+ and Make sure you have the following installed:
 
 ```bash
 pip install opencv-contrib-python numpy
